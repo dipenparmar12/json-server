@@ -57,14 +57,18 @@ const usersSchema = {
   },
 }
 
+const plausible = {
+  test: 123,
+}
+
 let results = {
   type: 'object',
   properties: {
     users: usersSchema,
-    products: productSchema,
+    product: productSchema,
   },
-  required: ['users', 'products'],
+  required: ['users', 'product'],
 }
 
 // module.exports = usersSchema
-module.exports = { results: results }
+module.exports = { results: results, plausible }

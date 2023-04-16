@@ -4,18 +4,26 @@
     "email": "token_d@d.com"
   },
   "plausible": {
-    "results": {
-      "bounce_rate": {
-        "value": 85
-      },
-      "pageviews": {
-        "value": 209
-      },
-      "visit_duration": {
-        "value": 43
-      },
-      "visitors": {
-        "value": 159
+    "aggregate": {
+      "results": {
+        "bounce_rate": {
+          "value": 70
+        },
+        "pageviews": {
+          "value": 13
+        },
+        "views_per_visit": {
+          "value": 1.3
+        },
+        "visit_duration": {
+          "value": 214
+        },
+        "visitors": {
+          "value": 8
+        },
+        "visits": {
+          "value": 10
+        }
       }
     }
   }
