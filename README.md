@@ -2,10 +2,18 @@
 
 > Instructions how to deploy the full fake REST API [json-server](https://github.com/typicode/json-server) to various free hosting sites. Should only be used in development purpose but can act as a simpler database for smaller applications.
 
-- [**Create your database**](#create-your-database)
-- [Deploy to **Heroku**](#deploy-to-heroku)
-- [Deploy to **Glitch**](#deploy-to-glitch)
-- [Deploy to **Azure**](#deploy-to-azure)
+- [Deploy `json-server` to `{{ free hosting site }}`](#deploy-json-server-to--free-hosting-site-)
+  - [Create your database](#create-your-database)
+  - [Deploy to **Heroku**](#deploy-to-heroku)
+          - [Pros](#pros)
+          - [Cons](#cons)
+    - [Install Heroku](#install-heroku)
+      - [How it works](#how-it-works)
+  - [Deploy to Glitch](#deploy-to-glitch)
+  - [Deploy to **Azure**](#deploy-to-azure)
+  - [Installation](#installation)
+  - [Create the project](#create-the-project)
+    - [Reference](#reference)
 
 ## Create your database
 
@@ -185,3 +193,10 @@ You should be prompted to supply a password, this should be the pass to your acc
 
 Choose **App Services** in the sidebar to the left and the choose your app in the list that appears then go to **Deployment Credentials** to change your password for deployment:<br>
 https://docs.microsoft.com/en-us/azure/app-service/app-service-deployment-credentials
+
+
+
+
+### Reference
+ - `json-schema-faker/json-schema-faker` https://github.com/json-schema-faker/json-schema-faker/blob/master/docs/USAGE.md#example-usage
+ - `coryhouse/mock-api-example` https://github.com/coryhouse/mock-api-example
