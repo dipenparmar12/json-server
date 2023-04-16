@@ -4,7 +4,8 @@
   "description": "Simple json database to deploy to the host of your choice",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "seed": "node scripts/generateMockData"
   },
   "keywords": [
     "json-server,heroku, node, REST API"
@@ -12,6 +13,7 @@
   "author": "Jesper Orb",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.17.0"
+    "json-schema-faker": "0.5.0-rcv.46",
+    "json-server": "^0.17.3"
   }
 }
