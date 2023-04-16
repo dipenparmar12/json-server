@@ -57,10 +57,6 @@ const usersSchema = {
   },
 }
 
-const plausible = {
-  test: 123,
-}
-
 let results = {
   type: 'object',
   properties: {
@@ -71,4 +67,4 @@ let results = {
 }
 
 // module.exports = usersSchema
-module.exports = { results: results, plausible }
+module.exports = { results: results }

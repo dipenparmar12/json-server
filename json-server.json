@@ -1,0 +1,4 @@
+{
+  "db": "./src/dynamic/db.json",
+  "watch": true
+}

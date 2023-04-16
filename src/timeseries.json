@@ -1,0 +1,112 @@
+{
+  "results": [
+    {
+      "bounce_rate": null,
+      "date": "2022-05-01",
+      "pageviews": 0,
+      "views_per_visit": 0.0,
+      "visit_duration": null,
+      "visitors": 0,
+      "visits": 0
+    },
+    {
+      "bounce_rate": null,
+      "date": "2022-06-01",
+      "pageviews": 0,
+      "views_per_visit": 0.0,
+      "visit_duration": null,
+      "visitors": 0,
+      "visits": 0
+    },
+    {
+      "bounce_rate": null,
+      "date": "2022-07-01",
+      "pageviews": 0,
+      "views_per_visit": 0.0,
+      "visit_duration": null,
+      "visitors": 0,
+      "visits": 0
+    },
+    {
+      "bounce_rate": null,
+      "date": "2022-08-01",
+      "pageviews": 0,
+      "views_per_visit": 0.0,
+      "visit_duration": null,
+      "visitors": 0,
+      "visits": 0
+    },
+    {
+      "bounce_rate": null,
+      "date": "2022-09-01",
+      "pageviews": 0,
+      "views_per_visit": 0.0,
+      "visit_duration": null,
+      "visitors": 0,
+      "visits": 0
+    },
+    {
+      "bounce_rate": null,
+      "date": "2022-10-01",
+      "pageviews": 0,
+      "views_per_visit": 0.0,
+      "visit_duration": null,
+      "visitors": 0,
+      "visits": 0
+    },
+    {
+      "bounce_rate": null,
+      "date": "2022-11-01",
+      "pageviews": 0,
+      "views_per_visit": 0.0,
+      "visit_duration": null,
+      "visitors": 0,
+      "visits": 0
+    },
+    {
+      "bounce_rate": null,
+      "date": "2022-12-01",
+      "pageviews": 0,
+      "views_per_visit": 0.0,
+      "visit_duration": null,
+      "visitors": 0,
+      "visits": 0
+    },
+    {
+      "bounce_rate": null,
+      "date": "2023-01-01",
+      "pageviews": 0,
+      "views_per_visit": 0.0,
+      "visit_duration": null,
+      "visitors": 0,
+      "visits": 0
+    },
+    {
+      "bounce_rate": null,
+      "date": "2023-02-01",
+      "pageviews": 0,
+      "views_per_visit": 0.0,
+      "visit_duration": null,
+      "visitors": 0,
+      "visits": 0
+    },
+    {
+      "bounce_rate": 88,
+      "date": "2023-03-01",
+      "pageviews": 19,
+      "views_per_visit": 1.12,
+      "visit_duration": 98,
+      "visitors": 12,
+      "visits": 17
+    },
+    {
+      "bounce_rate": 75,
+      "date": "2023-04-01",
+      "pageviews": 5,
+      "views_per_visit": 1.25,
+      "visit_duration": 117,
+      "visitors": 4,
+      "visits": 4
+    }
+  ]
+}
