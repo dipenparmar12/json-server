@@ -1,4 +1,4 @@
 {
-  "db": "./src/dynamic/db.json",
+  "db": "./src/seeds/db.json",
   "watch": true
 }

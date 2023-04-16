@@ -4,8 +4,6 @@
   "description": "Simple json database to deploy to the host of your choice",
   "main": "server.js",
   "scripts": {
-    "start": "json-server -c json-server.json",
-    "dev": "nodemon --watch json-server.json --exec \"yarn start\"",
     "server": "node server.js",
     "seed": "node scripts/generateMockData"
   },
